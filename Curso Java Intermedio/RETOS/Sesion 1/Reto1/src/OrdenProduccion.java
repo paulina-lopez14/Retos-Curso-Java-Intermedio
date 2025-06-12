@@ -3,7 +3,7 @@ public abstract class OrdenProduccion {
     private final String codigo;
     private final int cantidad;
 
-    //Constructor para el método mostrar resumen
+    //Constructor
     public OrdenProduccion(String codigo, int cantidad) {
         this.codigo = codigo;
         this.cantidad = cantidad;
