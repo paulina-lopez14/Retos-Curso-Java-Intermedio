@@ -7,7 +7,7 @@ Este repositorio reúne todos los retos desarrollados durante el segundo módulo
 ## ✨ Contenido
 1️⃣ Sesion 1: clases genéricas.
   - Reto 1: gestión de órdenes de producción en planta industrial.
-  - Reto 2: aplicación de wildcards en colecciones.
+  - Reto 2: aplicación de wildcards en colecciones / gestión de materiales de curso en una plataforma educativa.
     
 2️⃣ Sesion 2: multithreading y procesamiento concurrente.
   - Reto 1: simulación concurrente de sistemas en una misión espacial.
@@ -41,9 +41,10 @@ Gestión de órdenes de producción
 
 ![image](https://github.com/user-attachments/assets/0525df0a-edbf-4573-99c9-80e507c89b64)
 
-Sistema de emergencia
+Gestión de materiales de curso en una plataforma educativa
 
-![image](https://github.com/user-attachments/assets/8bc3c08e-bbf0-4950-a96d-06fb31e9032f)
+![image](https://github.com/user-attachments/assets/4047b618-dbc4-4480-af4f-32eea3990073)
+
 
 Motor de lógica narrativa 
 
