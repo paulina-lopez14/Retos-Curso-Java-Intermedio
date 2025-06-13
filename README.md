@@ -45,8 +45,9 @@ Gestión de materiales de curso en una plataforma educativa
 
 ![image](https://github.com/user-attachments/assets/4047b618-dbc4-4480-af4f-32eea3990073)
 
+Simulación concurrente de sistemas en una misión espacial
+![image](https://github.com/user-attachments/assets/71634806-10f3-4bc7-b40e-d68ca306d1ff)
 
-Motor de lógica narrativa 
 
 ## 🧠 Inteligencias utilizadas
   - Intellij IDEA.
